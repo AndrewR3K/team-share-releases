@@ -14,9 +14,6 @@
 
 </div>
 
-> [!WARNING]
-> **Evaluation build. Use test data only.** Team Share is still being security-reviewed and is not approved for real production secrets yet. Try it with fake keys and sample files.
-
 <br>
 
 ## See it in 20 seconds
@@ -154,15 +151,6 @@ Expired content cannot be opened. The receiving app removes its local copy while
 </details>
 
 <details>
-<summary><b>Can I use it for real secrets?</b></summary>
-
-<br>
-
-Not yet. This is an evaluation build that is still being reviewed. Use made-up keys and sample files until it is approved.
-
-</details>
-
-<details>
 <summary><b>I forgot my passphrase.</b></summary>
 
 <br>
@@ -186,5 +174,5 @@ There is no reset by design, because nobody else, including us, can unlock your 
 <br>
 
 <div align="center">
-<sub>Team Share is built for internal evaluation. Release notes live on the <a href="https://github.com/AndrewR3K/team-share-releases/releases">releases page</a>.</sub>
+<sub>Release notes live on the <a href="https://github.com/AndrewR3K/team-share-releases/releases">releases page</a>.</sub>
 </div>
